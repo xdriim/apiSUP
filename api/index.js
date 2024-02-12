@@ -7,27 +7,27 @@ const breeds = require("./products.json")
 const search = new JsSearch.Search("name") // remember the name key from breeds.json
 // search.addIndex("name")
 search.addDocuments(breeds)
-search.addIndex("name")
+search.addIndex("product")
 
 app.get("/api/products", (req, res) => {
   const { query } = req
 
   try {
-    const breed = query.search
+    const product = query.search
 
-    if (breed) {
-      //   res.send(breeds.find((b) => b.name === breed)) . //old impleentation
-      res.send(search.search(breed))
+    if (product) {
+      //   res.send(product.find((p) => p.product === product)) . //old impleentation
+      res.send(search.search(product))
     }
-    res.send(breeds.map((b) => ({ name: b })))
+    res.send(product.map((b) => ({ product: p })))
   } catch (error) {
     console.log("error", error)
   }
 })
 
-app.get("/api/breeds/:id", (req, res) => {
+app.get("/api/products/:id", (req, res) => {
   const { id } = req.params
-  res.send(breeds[id])
+  res.send(product[id])
 })
 
 module.exports = app
