@@ -1,0 +1,67 @@
+[
+  {
+    "nombre": "Tabla de Paddle Board Hinchable para Yoga",
+    "precio": 349.99,
+    "descripcion": "Tabla de paddle board diseñada específicamente para la práctica de yoga en el agua. Construida con una superficie antideslizante y estable para facilitar las poses de yoga.",
+    "caracteristicas": [
+      "Dimensiones: 11' x 34\" x 6\"",
+      "Incluye anclajes de yoga para sujetar la esterilla de yoga",
+      "Diseño ligero y fácil de transportar",
+      "Ideal para practicantes de yoga de todos los niveles"
+    ],
+    "foto": "https://cdn.shopify.com/s/files/1/2119/6259/products/Red_10.6_Stiff_Surfing_Inflatable_Stand_Up_Paddle_Board_0c6725a9-9914-4a2d-bd54-6ed41542467d.jpg",
+    "tipo": "SUP"
+  },
+  {
+    "nombre": "Canoa Inflable para Excursiones en Aguas Tranquilas",
+    "precio": 499.99,
+    "descripcion": "Canoa inflable diseñada para excursiones en aguas tranquilas y lagos. Compacta y fácil de transportar, ideal para viajes de camping y aventuras en la naturaleza.",
+    "caracteristicas": [
+      "Dimensiones: 14' x 38\"",
+      "Capacidad de asientos: hasta 3 personas",
+      "Incluye remos desmontables y bomba de inflado",
+      "Construcción duradera y resistente"
+    ],
+    "foto": "https://cdn.shopify.com/s/files/1/2119/6259/products/Aqua_Marina_Bora_Bora_Tandem_Double_Inflatable_Canoe_2_480x480.jpg",
+    "tipo": "Canoa"
+  },
+  {
+    "nombre": "Curso de Surf de 3 Días para Principiantes",
+    "precio": 199.99,
+    "descripcion": "Curso intensivo de surf de 3 días para principiantes. Aprende las técnicas básicas de surf con instrucción personalizada de expertos.",
+    "caracteristicas": [
+      "Duración: 3 días consecutivos",
+      "Incluye equipo de surf y transporte a las mejores playas",
+      "Clases teóricas y prácticas en el agua",
+      "Apto para todas las edades y niveles de condición física"
+    ],
+    "foto": "https://www.surfindustries.com/uploads/product-pages/sb/v5/stage-3-surfgym3-c3-3-day-foundation-cropped.jpg",
+    "tipo": "Bono"
+  },
+  {
+    "nombre": "Tabla de Surf de Fibra de Vidrio",
+    "precio": 599.99,
+    "descripcion": "Tabla de surf de alto rendimiento fabricada en fibra de vidrio. Diseñada para surfistas experimentados que buscan maniobrabilidad y velocidad.",
+    "caracteristicas": [
+      "Dimensiones: 6'6\" x 19\" x 2 3/4\"",
+      "Construcción en fibra de vidrio de alta calidad",
+      "Shape y rocker diseñados para olas rápidas y críticas",
+      "Quillas thruster de alto rendimiento incluidas"
+    ],
+    "foto": "https://cdn.shopify.com/s/files/1/0267/0707/7405/products/juice-fraser-blade-surfboard-600_450x.jpg",
+    "tipo": "SUP"
+  },
+  {
+    "nombre": "Chaleco Salvavidas de Neopreno para Kayak",
+    "precio": 49.99,
+    "descripcion": "Chaleco salvavidas diseñado para kayakers que buscan comodidad y seguridad. Fabricado en neopreno ligero y duradero.",
+    "caracteristicas": [
+      "Tallas disponibles: XS, S, M, L, XL",
+      "Cierre de cremallera y hebillas ajustables",
+      "Paneles laterales elásticos para mayor libertad de movimiento",
+      "Cumple con las normas de seguridad marítima"
+    ],
+    "foto": "https://cdn.shopify.com/s/files/1/0082/0985/5039/products/LJ-LAUNCH-NEO-PFD-YELLOW_800x.jpg",
+    "tipo": "Bono"
+  }
+]
